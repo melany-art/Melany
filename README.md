@@ -1,2 +1,2 @@
 # Melany
-For school
+Electronic pub
